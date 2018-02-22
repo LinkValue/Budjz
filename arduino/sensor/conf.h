@@ -1,0 +1,14 @@
+// Analogic
+int SENSOR_HUMIDITY = A0;
+int SENSOR_TEMPERATURE = A2;
+int SENSOR_BRIGHTNESS = A3;
+
+// Digital
+int LED_HUMIDITY_RED = 7;
+int LED_HUMIDITY_GREEN = 8;
+int LED_HUMIDITY_BLUE = 9;
+
+// Constants
+int DELAY = 1000;
+int RGB_MAX = 250;
+int RGB_MIN = 0;
